@@ -55,3 +55,44 @@ a {
     padding-top: 30px;
 
 }
+
+.last {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 88px;
+    border-radius: 10px;
+    width: 1145px;
+    height: 200px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+}
+
+.last h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+
+}
+
+.count {
+    width: 33%;
+    text-align: center;
+
+
+
+
+}
+
+
+
+
+footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 200px;
+}
+
+footer h3 {
+    padding-top: 40px;
+}
